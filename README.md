@@ -1,4 +1,4 @@
-# ANOVA-ANALYSIS-OF-VARIANCE-
+# REGRESSION (ANOVA-ANALYSIS-OF-VARIANCE-)
 Solved by SPSS
 
 Vente-privee.com organizes exclusive sales events for international de-signer brands lasting from 2 to 4 days offering 50% to 70% discounts ex-clusively to its 9.5 million members. In 2008, vente-privee.com successfully launched its new online appearance for the UK.
