@@ -16,3 +16,7 @@ Answer both research questions by using an ANOVA for the second re-search questi
 1) The ANOVA assumptions.
 2) The results of the Overall Tests.
 3) The results of the post-hoc tests.
+
+
+
+Results.See output file for slution.
